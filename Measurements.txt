@@ -1,0 +1,14 @@
+Details of circular ring patch antenna are mentioned in this text file.
+
+Material of substrate is FR4 epoxy
+
+From front view of antenna measurements are
+a=38mm, b=20mm, c= 17mm, d=2mm, e=2mm
+r1=3mm, r2=5mm, r3=8mm, r4=10mm, 
+Thickness of substrate=1.6mm
+Material of substrate=FR4 epoxy
+Permittivity =4.4
+
+From rear view of antenna measurements are
+p=6mm, r=7.5mm, q=4.5mm
+z=4.5mm, y=7.5mm, x= 6mm, m=4mm
